@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bobingstern&show_icons=true&theme=dracula&hide=javascript,shaderlab&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bobingstern&exclude_repo=Creature-Creator,ClassicSorting,NEAT-Cars,neataptic,p5.collide2D,p5.canvascam,p5.js-sound,Hill-Climb-Racing-AI,Car-QLearning,AStar,Maze-Generation,A-Star-Search-Algorithm,website,all-contributors&theme=dracula&layout=compact&hide=shaderlab)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bobingstern&exclude_repo=Creature-Creator,ClassicSorting,NEAT-Cars,neataptic,p5.collide2D,p5.canvascam,Hill-Climb-Racing-AI,Car-QLearning,AStar,Maze-Generation,website,all-contributors&theme=dracula&layout=compact&hide=shaderlab)](https://github.com/anuraghazra/github-readme-stats)
