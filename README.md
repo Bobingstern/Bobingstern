@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on an Ant Colony Sandbox game and an Arduino C++ library known as [MicroFlow](https://github.com/Bobingstern/MicroFlow)
 - 🌱 I’m currently learning Linear Algebra
 - 💬 Ask me about machine learning!
-- 📫 How to reach me: anikpatel@gmail.com
+- 📫 How to reach me: anikpatel1322@gmail.com
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I think math is cool
 
