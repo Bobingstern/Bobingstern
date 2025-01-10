@@ -6,14 +6,14 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on a C++ ches engine called [TinyChess](https://github.com/Bobingstern/TinyChess) for low memory microcontrollers
-- 🌱 I’m currently learning about Aerodynamics and planes
+- 🔭 I’m currently working on some AlphaZero and autonomous flight research
+- 🌱 I’m currently learning about Aerodynamics and Autonomous flight
 - 💬 Ask me about machine learning!
 - 📫 How to reach me: anikpatel1322@gmail.com
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I think math is cool
 
-[![Bobingstern's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bobingstern&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Bobingstern's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bobingstern&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bobingstern&show_icons=true&theme=dracula&hide=javascript,shaderlab&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bobingstern&theme=dracula&layout=compact&hide=javascript,html,shaderlab) -->
